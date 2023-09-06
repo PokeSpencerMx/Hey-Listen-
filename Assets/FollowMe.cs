@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class FollowMe : MonoBehaviour
 {
+    //Code adapted from https://gamedevbeginner.com/make-an-object-follow-the-mouse-in-unity-in-2d/
+    
     public float speed = 5;
     void Update()
     {
